@@ -1,0 +1,5 @@
+Hostname: ubuntuserv
+OS: Ubuntu 22.04.2 LTS
+Apache Version: Apache/2.4.52 (Ubuntu)
+Firewall: UFW enabled
+Fail2ban: SSH jail active

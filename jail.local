@@ -1,0 +1,8 @@
+[sshd]
+enabled = true
+port    = ssh
+logpath = %(sshd_log)s
+backend = systemd
+maxretry = 3
+bantime = 3600
+findtime = 600
